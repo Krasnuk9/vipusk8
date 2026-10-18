@@ -1,0 +1,5 @@
+alert("helo! Java script")
+    alert("Привіт! Java script")
+     alert("Привіт світ!")
+     alert("Увага наступне повідомлення помилка")
+     [8, 3, 5].forEach(alert)
